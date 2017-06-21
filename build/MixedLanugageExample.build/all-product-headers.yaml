@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/ALM/iOS_objC_demo-2/build/Release-iphoneos/MixedLanugageExample.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MixedLanugageExample-Swift.h",
+          'external-contents': "/Users/admin/Desktop/ALM/iOS_objC_demo-2/build/Release-iphoneos/MixedLanugageExample.app/Headers/MixedLanugageExample-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/ALM/iOS_objC_demo-2/build/Release-iphoneos/MixedLanugageExample.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/admin/Desktop/ALM/iOS_objC_demo-2/build/MixedLanugageExample.build/Release-iphoneos/MixedLanugageExample.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

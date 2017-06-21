@@ -1,0 +1,263 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LabelSwift"
+provides-nominal:
+- "C20MixedLanugageExample10LabelSwift"
+provides-member:
+- ["C20MixedLanugageExample10LabelSwift", ""]
+provides-dynamic-lookup:
+- "initText"
+depends-top-level:
+- "LabelSwift"
+- "AssignmentPrecedence"
+- "CGRect"
+- !private "StringLiteralType"
+- "NSCoder"
+- "UILabel"
+- !private "ComponentObjectiveC"
+depends-member:
+- !private ["Ps9AnyObject", "ComponentObjectiveC"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "initText"]
+- !private ["Ps9AnyObject", "sayHello"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "ComponentObjectiveC"]
+- ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "initText"]
+- !private ["PSo15CALayerDelegate", "text"]
+- ["PSo15CALayerDelegate", ""]
+- ["VSC6CGRect", "deinit"]
+- !private ["Ps7CVarArg", "ComponentObjectiveC"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "initText"]
+- !private ["Ps7CVarArg", "sayHello"]
+- !private ["Ps7CVarArg", "text"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- ["CSo19ComponentObjectiveC", "deinit"]
+- !private ["CSo19ComponentObjectiveC", "init"]
+- !private ["CSo19ComponentObjectiveC", "sayHello"]
+- !private ["Ps28CustomDebugStringConvertible", "ComponentObjectiveC"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "initText"]
+- !private ["Ps28CustomDebugStringConvertible", "sayHello"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "ComponentObjectiveC"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "initText"]
+- !private ["Ps23CustomStringConvertible", "sayHello"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "ComponentObjectiveC"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "initText"]
+- !private ["Ps9Equatable", "sayHello"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "ComponentObjectiveC"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "initText"]
+- !private ["Ps8Hashable", "sayHello"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["C20MixedLanugageExample10LabelSwift", "CGRect"]
+- !private ["C20MixedLanugageExample10LabelSwift", "ComponentObjectiveC"]
+- ["C20MixedLanugageExample10LabelSwift", "NSCoder"]
+- ["C20MixedLanugageExample10LabelSwift", "deinit"]
+- ["C20MixedLanugageExample10LabelSwift", "init"]
+- ["C20MixedLanugageExample10LabelSwift", "initText"]
+- !private ["C20MixedLanugageExample10LabelSwift", "text"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "ComponentObjectiveC"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "initText"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "CGRect"]
+- !private ["CSo8NSObject", "ComponentObjectiveC"]
+- ["CSo8NSObject", "NSCoder"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "initText"]
+- !private ["CSo8NSObject", "sayHello"]
+- !private ["CSo8NSObject", "text"]
+- !private ["PSo16NSObjectProtocol", "ComponentObjectiveC"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "initText"]
+- !private ["PSo16NSObjectProtocol", "sayHello"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "ComponentObjectiveC"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "initText"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "ComponentObjectiveC"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "initText"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "ComponentObjectiveC"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "initText"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "ComponentObjectiveC"]
+- ["PSo30UIContentSizeCategoryAdjusting", "init"]
+- ["PSo30UIContentSizeCategoryAdjusting", "initText"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- ["PSo30UIContentSizeCategoryAdjusting", ""]
+- !private ["PSo17UICoordinateSpace", "ComponentObjectiveC"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "initText"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "ComponentObjectiveC"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "initText"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "ComponentObjectiveC"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "initText"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "ComponentObjectiveC"]
+- ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "initText"]
+- !private ["PSo11UIFocusItem", "text"]
+- ["PSo11UIFocusItem", ""]
+- ["CSo7UILabel", "CGRect"]
+- !private ["CSo7UILabel", "ComponentObjectiveC"]
+- ["CSo7UILabel", "NSCoder"]
+- ["CSo7UILabel", "deinit"]
+- ["CSo7UILabel", "init"]
+- ["CSo7UILabel", "initText"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo7UILabel", ""]
+- ["CSo11UIResponder", "CGRect"]
+- !private ["CSo11UIResponder", "ComponentObjectiveC"]
+- ["CSo11UIResponder", "NSCoder"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "initText"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "ComponentObjectiveC"]
+- ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "initText"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo18UITraitEnvironment", "ComponentObjectiveC"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "initText"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "CGRect"]
+- !private ["CSo6UIView", "ComponentObjectiveC"]
+- ["CSo6UIView", "NSCoder"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "initText"]
+- !private ["CSo6UIView", "text"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "ComponentObjectiveC"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "initText"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "ComponentObjectiveC"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "initText"]
+- !private ["Ps9_Hashable", "sayHello"]
+- !private ["Ps9_Hashable", "text"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "VSC6CGRect"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "CSo19ComponentObjectiveC"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- "C20MixedLanugageExample10LabelSwift"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo30UIContentSizeCategoryAdjusting"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/admin/Desktop/ALM/iOS_objC_demo-2/MixedLanugageExample/MixedLanugageExample-Bridging-Header.h"
+- "/Users/admin/Desktop/ALM/iOS_objC_demo-2/MixedLanugageExample/ComponentObjectiveC.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "c2513680648307226e5400973c18276d"

@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Jenkins/workspace/iOS_objC_demo-2/build/Build/Products/Debug-iphonesimulator/MixedLanugageExample.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MixedLanugageExample-Swift.h",
+          'external-contents': "/Users/admin/Desktop/Jenkins/workspace/iOS_objC_demo-2/build/Build/Products/Debug-iphonesimulator/MixedLanugageExample.app/Headers/MixedLanugageExample-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Desktop/Jenkins/workspace/iOS_objC_demo-2/build/Build/Products/Debug-iphonesimulator/MixedLanugageExample.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/admin/Desktop/Jenkins/workspace/iOS_objC_demo-2/build/Build/Intermediates/MixedLanugageExample.build/Debug-iphonesimulator/MixedLanugageExample.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

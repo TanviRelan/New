@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "992fda95d9f6120e22e48fb7117ee9a9"
+build_time: [551338890, 233594000]
+inputs:
+  "/Users/admin/Desktop/ALM/iOS_objC_demo-2/MixedLanugageExample/LabelSwift.swift": [550319462, 0]
+  "/Users/admin/Desktop/ALM/iOS_objC_demo-2/MixedLanugageExample/ComponentSwift.swift": [550319462, 0]
